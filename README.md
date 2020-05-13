@@ -10,7 +10,7 @@ A Google Chrome extension that makes it easy to mute/unmute Google Meet tabs
 
 - Enable 'Developer mode' using the toggle at the top right
 
-- Click 'Load Unpacked' and point at the directory where you expanded the zip
+- Click 'Load Unpacked' and select 'ext' subfolder in the directory where you expanded the zip
 
 - The extension is now loaded, click the icon in the address bar to mute / unmute
 
